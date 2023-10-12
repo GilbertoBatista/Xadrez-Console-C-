@@ -1,2 +1,2 @@
-# Xadrez-Console-C-
-Um jogo simples de xadrez utilizando o console. 
+# Xadrez-Console
+Um jogo simples de xadrez em C# utilizando o console. 
